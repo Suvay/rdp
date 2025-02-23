@@ -1,4 +1,4 @@
-name: WINDOWS 2022 RDP
+name: WINDOWS 20225 RDP
 on:
   workflow_dispatch
   
